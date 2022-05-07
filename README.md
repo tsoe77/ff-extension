@@ -1,0 +1,3 @@
+# README
+
+`web-ext run`
